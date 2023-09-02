@@ -21,17 +21,17 @@ At the lowest price on the market, you may receive a variety of solutions, inclu
 ## Features
 
 - Random input Password
-- Save Account details after Creation in .cvs file
+- Save Account details after Creation in .csv file
 - Full Auto Account Creation 🤖
 
 ## Getting Started
 
-This script can create TikTok Accoiunts.
+This script can create TikTok Accounts.
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Support 👨‍💻
 
-Any problems with running the script and any questions please cantact me via Twitter [@hendrik_bgr](https://twitter.com/Hendrik_bgr)
+Any problems with running the script and any questions please contact me via Twitter [@hendrik_bgr](https://twitter.com/Hendrik_bgr)
 
 ### Prerequisites
 
